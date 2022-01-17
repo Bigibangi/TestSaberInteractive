@@ -1,0 +1,16 @@
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.exe
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.deps.json
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.runtimeconfig.json
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.runtimeconfig.dev.json
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.dll
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\ref\SerializeTestSaber.dll
+E:\Projects\SerializeTestSaber\bin\Debug\net5.0\SerializeTestSaber.pdb
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.csproj.AssemblyReference.cache
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.AssemblyInfoInputs.cache
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.AssemblyInfo.cs
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.csproj.CoreCompileInputs.cache
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.dll
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\ref\SerializeTestSaber.dll
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.pdb
+E:\Projects\SerializeTestSaber\obj\Debug\net5.0\SerializeTestSaber.genruntimeconfig.cache

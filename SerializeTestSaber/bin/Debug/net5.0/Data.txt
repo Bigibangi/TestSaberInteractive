@@ -1,0 +1,9 @@
+Count:2
+Prev:0
+Next:NULL
+Rand:NULL
+Data:NULL
+Prev:NULL
+Next:1
+Rand:NULL
+Data:Pft,kj
