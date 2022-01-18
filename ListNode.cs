@@ -24,5 +24,10 @@ namespace SerializeTestSaber
                    other.Rand == this.Rand &&
                    other.Data.Equals(this.Data);
         }
+
+        public override int GetHashCode()
+        {
+            return Data.Length * 13;
+        }
     }
 }
