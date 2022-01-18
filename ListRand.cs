@@ -126,7 +126,6 @@ namespace SerializeTestSaber
                    other.Head.Equals(this.Head) &&
                    other.Tail.Equals(this.Tail) &&
                    other.Count == this.Count;
-
         }
 
         public override int GetHashCode()
