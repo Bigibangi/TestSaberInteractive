@@ -19,9 +19,9 @@ namespace SerializeTestSaber
         public bool Equals(ListNode other)
         {
             return other != null &&
-                   other.Prev == this.Prev &&
-                   other.Next == this.Next &&
-                   other.Rand == this.Rand &&
+                   other.Prev.Equals(this.Prev) &&
+                   other.Next.Equals(this.Next) &&
+                   other.Rand.Equals(this.Rand) &&
                    other.Data.Equals(this.Data);
         }
 

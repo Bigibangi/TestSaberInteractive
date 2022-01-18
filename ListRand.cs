@@ -51,7 +51,7 @@ namespace SerializeTestSaber
                 else if (value is null) { value = "NULL"; }
                 sw.WriteLine(String.Format("{0}:{1}", field.Name, value));
             }
-            
+
         }
 
         public void Deserialize(FileStream s)
@@ -113,6 +113,25 @@ namespace SerializeTestSaber
                 Tail = listNode;
                 Count++;
             }
+        }
+
+        public override bool Equals(object obj)
+        {
+            return Equals(obj as ListRand);
+        }
+
+        public bool Equals(ListRand other)
+        {
+            return other != null &&
+                   other.Head.Equals(this.Head) &&
+                   other.Tail.Equals(this.Tail) &&
+                   other.Count == this.Count;
+
+        }
+
+        public override int GetHashCode()
+        {
+            return Count * 13;
         }
     }
 }
